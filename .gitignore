@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and runtime
+*.log
+token_cache.json
+.env
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
